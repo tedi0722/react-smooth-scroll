@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <Route exact path="/" >
-        <div className="App">
+        <div className="container">
           <Navbar />
           <Section id="section1" title="Section 1 Title" paragraph="Section 1 Paragraph" />
           <Section id="section2" title="Section 2 Title" paragraph="Section 2 Paragraph" />
