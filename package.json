@@ -2,7 +2,7 @@
   "name": "react-smooth-scroll",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tedi0722.github.io/react-smooth-scroll/",
+  "homepage": "https://tedi0722.github.io/react-smooth-scroll",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.4",
