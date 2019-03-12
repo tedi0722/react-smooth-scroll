@@ -1,9 +1,8 @@
 import React, { Component } from 'react';
-import { Link, animateScroll as scroll } from 'react-scroll';
+import { Link } from 'react-scroll';
 import './Navbar.css';
 
 class Navbar extends Component {
-
 
     render () {
         return (
