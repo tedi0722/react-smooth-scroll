@@ -1,13 +1,13 @@
 {
-  "main.css": "/tedi0722/react-smooth-scroll.git/static/css/main.a1789123.chunk.css",
-  "main.js": "/tedi0722/react-smooth-scroll.git/static/js/main.33fbe346.chunk.js",
-  "main.js.map": "/tedi0722/react-smooth-scroll.git/static/js/main.33fbe346.chunk.js.map",
-  "runtime~main.js": "/tedi0722/react-smooth-scroll.git/static/js/runtime~main.4f670915.js",
-  "runtime~main.js.map": "/tedi0722/react-smooth-scroll.git/static/js/runtime~main.4f670915.js.map",
-  "static/js/2.9c334e76.chunk.js": "/tedi0722/react-smooth-scroll.git/static/js/2.9c334e76.chunk.js",
-  "static/js/2.9c334e76.chunk.js.map": "/tedi0722/react-smooth-scroll.git/static/js/2.9c334e76.chunk.js.map",
-  "index.html": "/tedi0722/react-smooth-scroll.git/index.html",
-  "precache-manifest.c6624d17ee69070ebbd8c15ec44cd9e1.js": "/tedi0722/react-smooth-scroll.git/precache-manifest.c6624d17ee69070ebbd8c15ec44cd9e1.js",
-  "service-worker.js": "/tedi0722/react-smooth-scroll.git/service-worker.js",
-  "static/css/main.a1789123.chunk.css.map": "/tedi0722/react-smooth-scroll.git/static/css/main.a1789123.chunk.css.map"
+  "main.css": "/react-smooth-scroll/static/css/main.a1789123.chunk.css",
+  "main.js": "/react-smooth-scroll/static/js/main.33fbe346.chunk.js",
+  "main.js.map": "/react-smooth-scroll/static/js/main.33fbe346.chunk.js.map",
+  "runtime~main.js": "/react-smooth-scroll/static/js/runtime~main.f11b1c6c.js",
+  "runtime~main.js.map": "/react-smooth-scroll/static/js/runtime~main.f11b1c6c.js.map",
+  "static/js/2.9c334e76.chunk.js": "/react-smooth-scroll/static/js/2.9c334e76.chunk.js",
+  "static/js/2.9c334e76.chunk.js.map": "/react-smooth-scroll/static/js/2.9c334e76.chunk.js.map",
+  "index.html": "/react-smooth-scroll/index.html",
+  "precache-manifest.c64ca3c6cd46bd1c1bf2b77934c2d139.js": "/react-smooth-scroll/precache-manifest.c64ca3c6cd46bd1c1bf2b77934c2d139.js",
+  "service-worker.js": "/react-smooth-scroll/service-worker.js",
+  "static/css/main.a1789123.chunk.css.map": "/react-smooth-scroll/static/css/main.a1789123.chunk.css.map"
 }

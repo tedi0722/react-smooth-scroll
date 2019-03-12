@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tedi0722/react-smooth-scroll.git/precache-manifest.c6624d17ee69070ebbd8c15ec44cd9e1.js"
+  "/react-smooth-scroll/precache-manifest.c64ca3c6cd46bd1c1bf2b77934c2d139.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/tedi0722/react-smooth-scroll.git/index.html", {
+workbox.routing.registerNavigationRoute("/react-smooth-scroll/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
